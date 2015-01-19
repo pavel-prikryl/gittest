@@ -6,6 +6,6 @@ package cz.upce.owad.gittest;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("message changed");
+		System.out.println("message changed 19.1.2015");
 	}
 }
